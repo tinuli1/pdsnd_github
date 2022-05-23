@@ -10,7 +10,7 @@ Bikeshare Data for US Cities
 Python codes that helps to expolre Bikeshare Data
 
 ### Files used
-files used are washington.csv, new-york-city.csv and boston.csv for Data. And bikeshare.py for exploring the data
+files used are washington.csv, new_york_city.csv and chicago.csv for Data. And bikeshare.py for exploring the data
 
 ### Credits
 credit goes to udacity and this great course
